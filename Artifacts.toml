@@ -1,0 +1,103 @@
+[[wfdb_wrapper]]
+arch = "aarch64"
+git-tree-sha1 = "2bc4e08936453dc2ae70d90fe1533ac8a3bf290d"
+libc = "glibc"
+os = "linux"
+
+    [[wfdb_wrapper.download]]
+    sha256 = "ea6f03a58ab6dd973ed0a24aa178d133ed8a4b6782c0451e48b34b369631024b"
+    url = "https://github.com/sairus7/wfdb_wrapper_jll.jl/releases/download/wfdb_wrapper-v1.0.0+0/wfdb_wrapper.v1.0.0.aarch64-linux-gnu.tar.gz"
+[[wfdb_wrapper]]
+arch = "aarch64"
+git-tree-sha1 = "ced832fec3daa933a4fc197358b9167266d8ec12"
+libc = "musl"
+os = "linux"
+
+    [[wfdb_wrapper.download]]
+    sha256 = "4f78e63542b8adf7cbea35d06ef414fc5f54a6792ac6c93b6e51f467838c7da1"
+    url = "https://github.com/sairus7/wfdb_wrapper_jll.jl/releases/download/wfdb_wrapper-v1.0.0+0/wfdb_wrapper.v1.0.0.aarch64-linux-musl.tar.gz"
+[[wfdb_wrapper]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "84e8c08a2f1711ef91ec8342ae58c73f1af7b71d"
+libc = "glibc"
+os = "linux"
+
+    [[wfdb_wrapper.download]]
+    sha256 = "e862584b9a20bc2cee65e34015f37b870bf299bba4dcdb9c737bd984adc297d8"
+    url = "https://github.com/sairus7/wfdb_wrapper_jll.jl/releases/download/wfdb_wrapper-v1.0.0+0/wfdb_wrapper.v1.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[wfdb_wrapper]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ffb3eb58b854f3be305b0f927787d264cd72ece8"
+libc = "musl"
+os = "linux"
+
+    [[wfdb_wrapper.download]]
+    sha256 = "0bdefb3d49dfed8b08c24f024c8428bfab01c790ca32457f1ba173a609d5d776"
+    url = "https://github.com/sairus7/wfdb_wrapper_jll.jl/releases/download/wfdb_wrapper-v1.0.0+0/wfdb_wrapper.v1.0.0.armv6l-linux-musleabihf.tar.gz"
+[[wfdb_wrapper]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "20763faa6a3948c5e7f28dd7f328874c27098199"
+libc = "glibc"
+os = "linux"
+
+    [[wfdb_wrapper.download]]
+    sha256 = "662ba29a823d665b28c7b95c43d4eeabca49b24523fd0f9c06a8f82330c02cc6"
+    url = "https://github.com/sairus7/wfdb_wrapper_jll.jl/releases/download/wfdb_wrapper-v1.0.0+0/wfdb_wrapper.v1.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[wfdb_wrapper]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1c6e3e27d96586f71b94ce17b5fe75734557b87f"
+libc = "musl"
+os = "linux"
+
+    [[wfdb_wrapper.download]]
+    sha256 = "90ee982497d48cef7db353e7b7ef0a7cd2a30cfcee409e506149846c4c140771"
+    url = "https://github.com/sairus7/wfdb_wrapper_jll.jl/releases/download/wfdb_wrapper-v1.0.0+0/wfdb_wrapper.v1.0.0.armv7l-linux-musleabihf.tar.gz"
+[[wfdb_wrapper]]
+arch = "i686"
+git-tree-sha1 = "f2c346c125f34bfe6fbd073363f1a5e6113f20f3"
+libc = "glibc"
+os = "linux"
+
+    [[wfdb_wrapper.download]]
+    sha256 = "3e60d10fe945c18040a922a1326d4f920e5b834199de26589546b5e1b9b9edfb"
+    url = "https://github.com/sairus7/wfdb_wrapper_jll.jl/releases/download/wfdb_wrapper-v1.0.0+0/wfdb_wrapper.v1.0.0.i686-linux-gnu.tar.gz"
+[[wfdb_wrapper]]
+arch = "i686"
+git-tree-sha1 = "51f36f6c09483933d3a82f7ed091a921c803428a"
+libc = "musl"
+os = "linux"
+
+    [[wfdb_wrapper.download]]
+    sha256 = "d899a72f61ad248b04c841e31d2cdddd2e66aa38f233bbea5b02992638c1235b"
+    url = "https://github.com/sairus7/wfdb_wrapper_jll.jl/releases/download/wfdb_wrapper-v1.0.0+0/wfdb_wrapper.v1.0.0.i686-linux-musl.tar.gz"
+[[wfdb_wrapper]]
+arch = "powerpc64le"
+git-tree-sha1 = "03af4162e902e82ab00a3b3aee1942d321035719"
+libc = "glibc"
+os = "linux"
+
+    [[wfdb_wrapper.download]]
+    sha256 = "980e0a2f404cec83384524226b2501d91ca712be23f47de6c54726731535fb9c"
+    url = "https://github.com/sairus7/wfdb_wrapper_jll.jl/releases/download/wfdb_wrapper-v1.0.0+0/wfdb_wrapper.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+[[wfdb_wrapper]]
+arch = "x86_64"
+git-tree-sha1 = "d6e506342affc835215780db9a295f502b92ba95"
+libc = "glibc"
+os = "linux"
+
+    [[wfdb_wrapper.download]]
+    sha256 = "e040eecc9d387eb2c9ee976f517eb3618eef75a829f4a95beedd2a7ac8511c16"
+    url = "https://github.com/sairus7/wfdb_wrapper_jll.jl/releases/download/wfdb_wrapper-v1.0.0+0/wfdb_wrapper.v1.0.0.x86_64-linux-gnu.tar.gz"
+[[wfdb_wrapper]]
+arch = "x86_64"
+git-tree-sha1 = "09b3b4a8d563d293e02d257f07b21a46734bd92f"
+libc = "musl"
+os = "linux"
+
+    [[wfdb_wrapper.download]]
+    sha256 = "3bed65ebe8c0b82092312b4e5e3b1555ec7a836ccab121041e36f5a5c3c90944"
+    url = "https://github.com/sairus7/wfdb_wrapper_jll.jl/releases/download/wfdb_wrapper-v1.0.0+0/wfdb_wrapper.v1.0.0.x86_64-linux-musl.tar.gz"
