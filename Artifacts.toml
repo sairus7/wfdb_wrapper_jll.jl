@@ -103,17 +103,17 @@ os = "linux"
     url = "https://github.com/sairus7/wfdb_wrapper_jll.jl/releases/download/wfdb_wrapper-v1.0.0+0/wfdb_wrapper.v1.0.0.x86_64-linux-musl.tar.gz"
 [[wfdb_wrapper]]
 arch = "x86_64"
-git-tree-sha1 = "12f0ffab8eed09cf4b5cf11e15a46f87edf575c9"
+git-tree-sha1 = "ff81a94fdb2954bd9d9fd217524a4df96339aeab"
 os = "windows"
 
     [[wfdb_wrapper.download]]
-    sha256 = "1b8206234da3b7aae105fcd14ad000d232ca9a9947797db20aa6ee759e9ced6a"
+    sha256 = "2a0092932bdb8a13c48b61df640516a7946c9dec493dd801603b55b0d615e24e"
     url = "https://github.com/sairus7/wfdb_wrapper_jll.jl/releases/download/wfdb_wrapper-v1.0.0%2B0/wfdb_wrapper.v1.0.0.x86_64-w64-mingw32.tar.gz"
 [[wfdb_wrapper]]
 arch = "i686"
-git-tree-sha1 = "5b0ba7386cae8f9f8b855801830bdb18ae150e18"
+git-tree-sha1 = "1cb88b91decc2f9065099c0946a211cdf1ad3cdb"
 os = "windows"
 
     [[wfdb_wrapper.download]]
-    sha256 = "0ec1be03f82ad882f533f846f089a4cec82877fedb99828687d1c20686618c6a"
+    sha256 = "02a61a60b21b29ead1fa96f7cfd4b8e9f9080a89137f8197a7d240b6df4d121a"
     url = "https://github.com/sairus7/wfdb_wrapper_jll.jl/releases/download/wfdb_wrapper-v1.0.0%2B0/wfdb_wrapper.v1.0.0.i686-w64-mingw32.tar.gz"
