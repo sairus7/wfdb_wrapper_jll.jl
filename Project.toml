@@ -1,6 +1,6 @@
 name = "wfdb_wrapper_jll"
 uuid = "cfa65b43-6878-5963-b59c-e7edc60d5dc9"
-version = "1.0.0+0"
+version = "1.0.1+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
